@@ -1,2 +1,2 @@
 # AprioriAlgorith_datamining_
-Apriori Algorithm in R
+Apriori Algorithm in Grocery Dataset in R
